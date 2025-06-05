@@ -1,9 +1,10 @@
 h1 {
   color: plum;
   text-align: center;
+  margin-bottom: 15px;
 }
 p {
   font-size: 16px;
   font-family: "Open Sans", sans-serif;
-  width: 80%;
+  width: 50%;
 }
